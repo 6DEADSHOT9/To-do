@@ -1,7 +1,3 @@
-Here's a simple but attractive README for your CLI-based to-do app in Go:
-
----
-
 # Go To-Do CLI App
 
 Welcome to the Go To-Do CLI App! This simple yet powerful command-line tool helps you manage your tasks efficiently, right from your terminal.
