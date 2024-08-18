@@ -54,7 +54,7 @@ Here are some commands you can use:
   ./todo done 1
   ```
 
-- **Delete a task:**
+- **Delete a task:**    
 
   ```bash
   ./todo delete 1
